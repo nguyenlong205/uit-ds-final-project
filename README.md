@@ -1,7 +1,7 @@
 # [UIT@PubHealthQA] HCM Public Health Office Procedure Q&A Dataset
 
 ## Table of Contents
-- [Overview](#overview)
+- [Overview](#-overview)
 - [Project Structure](#%EF%B8%8F-project-structure)
 - [Acknowledgement](#acknowledgement)
 
