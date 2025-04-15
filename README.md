@@ -58,7 +58,7 @@ dataset-building-project/
 ```
 
 ## Acknowledgement
-I would like to express my heartfelt gratitude to the following individuals for their invaluable guidance and support throughout this course and project:
+I would like to express my heartfelt gratitude to the following individuals for their invaluable guidance and support throughout this project:
 - Ph.D. Nguyen Gia Tuan Anh – Dean of the Faculty of Information Science and Engineering, UIT
 - Teaching Assistant Tran Quoc Khanh – Faculty of Information Science and Engineering, UIT
 
