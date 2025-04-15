@@ -9,7 +9,10 @@ This GitHub repository includes a project in subjects - namely Data Collecting a
 
 
 ## Acknowledgement
-I would like to express my sincere gratitude to Ph.D. Nguyen Gia Tuan Anh and Teaching Assistant Tran Quoc Khanh for their invaluable guidance and support throughout this project and course. Their insights and assistance were instrumental in helping us navigate and overcome various challenges during the process.
+I would like to express my heartfelt gratitude to the following individuals for their invaluable guidance and support throughout this course and project:
+- Ph.D. Nguyen Gia Tuan Anh – Dean of the Faculty of Information Science and Engineering, UIT
+- Teaching Assistant Tran Quoc Khanh – Faculty of Information Science and Engineering, UIT
+Their expertise and encouragement were instrumental in helping us navigate challenges and achieve our objectives.
 
 I would also like to extend my appreciation to my dedicated teammates for their significant contributions to the successful completion of this project:
 - Dung Ho Tan, 23520327@gm.uit.edu.vn
