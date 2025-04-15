@@ -1,4 +1,4 @@
-# [UIT@HealthQA] HCM-HealthQA - HCM Public Health Q&A Dataset
+# [UIT@HealthQA] HCM Public Health Q&A Dataset
 
 ## Table of Contents
 - [Overview](#overview)
