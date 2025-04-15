@@ -13,11 +13,13 @@ This GitHub repository includes a project in subjects - namely Data Collecting a
 ```tex
 building-dataset-project/
 │
-├── data/                   # Raw and processed dataset files
-│   ├── raw/                # Original, unmodified data
-│   │   └── building_data.csv
-│   └── processed/          # Cleaned and processed data ready for analysis or model training
-│       └── cleaned_data.csv
+├── data/                      # Raw and processed dataset files
+│   ├── bronze/
+│   │   └── dataset_bronze.csv
+│   ├── sliver/
+│   │   └── dataset_sliver.csv
+│   └── gold/
+│       └── dataset_gold.csv
 │
 ├── notebooks/              # Jupyter Notebooks for data exploration, cleaning, and analysis
 │   ├── 01-data-exploration.ipynb
