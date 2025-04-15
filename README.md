@@ -61,7 +61,7 @@ dataset-building-project/
 I would like to express my heartfelt gratitude to the following individuals for their invaluable guidance and support throughout this project:
 - Ph.D. Nguyen Gia Tuan Anh – University of Information Technology, VNUHCM
 - Ph.D. Duong Ngoc Hao - University of Information Technology, VNUHCM
-- Teaching Assistant Tran Quoc Khanh – University of Information Technology, VNUHCM
+- T.A. Tran Quoc Khanh – University of Information Technology, VNUHCM
 
 Their expertise and encouragement were instrumental in helping us navigate challenges and achieve our objectives.
 
