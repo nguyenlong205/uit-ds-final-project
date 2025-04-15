@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Project Structure](#project-structure)
+- [Project Structure](#%EF%B8%8F-project-structure)
 - [Acknowledgement](#acknowledgement)
 
 ## Overview
