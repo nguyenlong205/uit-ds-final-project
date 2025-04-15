@@ -6,7 +6,7 @@
 - [Acknowledgement](#acknowledgement)
 
 ## Overview
-The HCM Public Health Q&A Dataset is a structured collection of questions and answers related to public health topics in Ho Chi Minh City (HCM), Vietnam. This dataset is designed to support natural language processing (NLP) research and applications, especially in areas such as:
+The **HCM Public Health Q&A Dataset** - `UIT@HealthQA` is a structured collection of questions and answers related to public health topics in Ho Chi Minh City (HCM), Vietnam. This dataset is designed to support natural language processing (NLP) research and applications, especially in areas such as:
 - Question Answering Systems
 - Information Retrieval and Extraction
 - Text Classification and Clustering
