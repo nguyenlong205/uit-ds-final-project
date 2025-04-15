@@ -20,7 +20,7 @@ The dataset includes real-world public health inquiries submitted by citizens an
 This project aims to promote transparency in public health communication and provide a valuable resource for developing AI models capable of understanding and generating Vietnamese health-related content.
 
 
-## Project Structure
+## 🗂️ Project Structure
 ```tex
 dataset-building-project/
 │
