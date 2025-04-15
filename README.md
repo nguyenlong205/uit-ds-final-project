@@ -2,10 +2,14 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Project Structure](#project-structure)
 - [Acknowledgement](#acknowledgement)
 
 ## Overview
 This GitHub repository includes a project in subjects - namely Data Collecting and Preprocessing, Computational Thinking for Data Science, and Statistical Machine Learning.
+
+
+## Project Structure
 
 
 ## Acknowledgement
