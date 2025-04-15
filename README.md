@@ -1,9 +1,9 @@
 # [UIT@HealthQA] HCM Public Health Q&A Dataset
 
 ## Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Acknowledgement](#acknowledgement)
+1. [Overview](#overview)
+2. [Project Structure](#project-structure)
+3. [Acknowledgement](#acknowledgement)
 
 ## Overview
 This GitHub repository includes a project in subjects - namely Data Collecting and Preprocessing, Computational Thinking for Data Science, and Statistical Machine Learning.
