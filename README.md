@@ -9,8 +9,8 @@ This GitHub repository includes a project in subjects - namely Data Collecting a
 
 
 ## Acknowledgement
-I would appreciate the significant contribution from my wonderful colleagues toward the accomplishment of this project, including:
-- Dung Ho Tien, 23520327@gm.uit.edu.vn
+I would like to express my sincere gratitude to Ph.D. Nguyen Gia Tuan Anh and Teaching Assistant Tran Quoc Khanh for their invaluable guidance and support throughout this project and course. Their insights and assistance were instrumental in helping us navigate and overcome various challenges during the process.
 
-
-I would like to express my sincere gratitude to Ph. Anh Nguyen Gia Tuan, Teacher Assistance Khanh Tran Quoc for their guidance throughout this project and course, as well as for their assistance in addressing any challenges we encountered during the process.
+I would also like to extend my appreciation to my dedicated teammates for their significant contributions to the successful completion of this project:
+- Dung Ho Tan, 23520327@gm.uit.edu.vn
+- An Pham Dang, 22520027@gm.uit.edu.vn
