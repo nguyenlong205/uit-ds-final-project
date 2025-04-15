@@ -6,7 +6,18 @@
 - [Acknowledgement](#acknowledgement)
 
 ## Overview
-This GitHub repository includes a project in subjects - namely Data Collecting and Preprocessing, Computational Thinking for Data Science, and Statistical Machine Learning.
+The HCM Public Health Q&A Dataset is a structured collection of questions and answers related to public health topics in Ho Chi Minh City (HCM), Vietnam. This dataset is designed to support natural language processing (NLP) research and applications, especially in areas such as:
+- Question Answering Systems
+- Information Retrieval and Extraction
+- Text Classification and Clustering
+- Vietnamese Language Processing
+
+The dataset includes real-world public health inquiries submitted by citizens and corresponding expert responses provided by official sources. Each entry typically contains:
+- A user-submitted question (in Vietnamese)
+- An official answer provided by the local health department or relevant authority
+- Metadata such as category, timestamp, and location (where applicable)
+
+This project aims to promote transparency in public health communication and provide a valuable resource for developing AI models capable of understanding and generating Vietnamese health-related content.
 
 
 ## Project Structure
