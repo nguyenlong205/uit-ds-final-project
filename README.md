@@ -11,37 +11,39 @@ This GitHub repository includes a project in subjects - namely Data Collecting a
 
 ## Project Structure
 ```tex
-building-dataset-project/
+dataset-building-project/
 │
-├── data/                      # Raw and processed dataset files
-│   ├── bronze/
-│   │   └── dataset_bronze.csv
-│   ├── sliver/
-│   │   └── dataset_sliver.csv
-│   └── gold/
-│       └── dataset_gold.csv
+├── data/                          # All dataset files organized by processing stage
+│   ├── bronze/                    # Raw data (scraped, collected, or received)
+│   │   └── raw_building_data.csv
+│   ├── silver/                    # Cleaned and normalized (e.g., renamed fields, fixed types)
+│   │   └── normalized_data.csv
+│   └── gold/                      # Final dataset ready for ML, analytics, or publishing
+│       └── building_dataset_final.csv
 │
-├── notebooks/              # Jupyter Notebooks for data exploration, cleaning, and analysis
-│   ├── 01-data-exploration.ipynb
-│   ├── 02-data-cleaning.ipynb
-│   └── 03-modeling.ipynb   # If you're building predictive models (e.g., predicting building costs)
+├── notebooks/                     # Jupyter notebooks for exploration and processing
+│   ├── 01-exploration.ipynb
+│   ├── 02-cleaning-transform.ipynb
+│   └── 03-feature-engineering.ipynb
 │
-├── src/                    # Custom scripts for data processing, modeling, etc.
-│   ├── __init__.py         # To mark the directory as a package
-│   ├── data_preprocessing.py
-│   ├── data_visualization.py
-│   └── model.py            # If using machine learning or regression models
+├── src/                           # Python scripts for modular data processing
+│   ├── __init__.py
+│   ├── ingest.py                  # For downloading or scraping raw data
+│   ├── clean.py                   # For cleaning and transforming data (bronze → silver)
+│   ├── transform.py               # Feature engineering or aggregating (silver → gold)
+│   └── utils.py                   # Reusable functions/utilities
 │
-├── outputs/                # Output results (e.g., graphs, model predictions, etc.)
-│   ├── visualizations/     # Plots and graphs
-│   │   └── building_heights_distribution.png
-│   └── predictions/        # Model output or analysis results
-│       └── building_cost_predictions.csv
+├── outputs/                       # Output artifacts like visualizations or logs
+│   ├── visualizations/
+│   └── logs/
 │
-├── requirements.txt        # List of dependencies to replicate the environment
-├── README.md               # Project documentation
-└── LICENSE                 # License for the project (optional)
-
+├── tests/                         # Unit tests for your processing scripts
+│   └── test_clean.py
+│
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
+├── .gitignore                    # Git ignore rules
+└── LICENSE                       # License (e.g., MIT)
 ```
 
 ## Acknowledgement
