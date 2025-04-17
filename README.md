@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#-overview)
-- [Dataset Structure](#dataset-structure)
+- [Dataset Structure](#-dataset-structure)
 - [Project Structure](#%EF%B8%8F-project-structure)
 - [Acknowledgement](#acknowledgement)
 
