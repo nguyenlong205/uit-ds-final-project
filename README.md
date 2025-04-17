@@ -22,7 +22,7 @@ This project aims to promote transparency in public health communication and pro
 
 ## 🗂️ Project Structure
 ```tex
-dataset-building-project/
+UIT@PubHealthQA/
 │
 ├── data/                          # All dataset files organized by processing stage
 │   ├── bronze/                    # Raw data (scraped, collected, or received)
