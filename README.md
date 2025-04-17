@@ -1,16 +1,13 @@
-# [UIT@PubHealthQA] HCM Public Health Office Procedure Q&A Dataset
+# 🩺 [UIT@PubHealthQA] HCM Public Health Office Procedure Q&A Dataset
 
 ## Table of Contents
 - [Overview](#-overview)
+- [Dataset Structure](#dataset-structure)
 - [Project Structure](#%EF%B8%8F-project-structure)
 - [Acknowledgement](#acknowledgement)
 
 ## 🧾 Overview
-The **HCM Public Health Office Procedure Q&A Dataset** - `UIT@PubHealthQA` is a structured collection of questions and answers related to public health topics in Ho Chi Minh City (HCM), Vietnam. This dataset is designed to support natural language processing (NLP) research and applications, especially in areas such as:
-- Question Answering Systems
-- Information Retrieval and Extraction
-- Text Classification and Clustering
-- Vietnamese Language Processing
+The **HCM Public Health Office Procedure Q&A Dataset** - `UIT@PubHealthQA` is a multi-tiered dataset project focused on building a high-quality Question Answering (QA) dataset in the public health domain, using a combination of document crawling, structured text extraction, and LLM+RAG-based question generation.
 
 The dataset includes real-world public health inquiries submitted by citizens and corresponding expert responses provided by official sources. Each entry typically contains:
 - A user-submitted question (in Vietnamese)
@@ -18,6 +15,14 @@ The dataset includes real-world public health inquiries submitted by citizens an
 - Metadata such as category, timestamp, and location (where applicable)
 
 This project aims to promote transparency in public health communication and provide a valuable resource for developing AI models capable of understanding and generating Vietnamese health-related content.
+
+## 📊 Dataset Structure
+We adopt a Bronze–Silver–Gold data quality framework:
+| Tier    | Description                                                                                             |
+| :------ | :------------------------------------------------------------------------------------------------------ |
+| 🥉 Bronze | Raw crawled data (PDFs, web pages), extracted with minimal preprocessing                                |
+| 🥈 Silver | Cleaned, structured, and partially labeled data (Bloom levels, topics, etc.)                              |
+| 🥇 Gold   | High-quality, fully validated dataset with inter-annotator agreement, QA pairs                           |
 
 
 ## 🗂️ Project Structure
